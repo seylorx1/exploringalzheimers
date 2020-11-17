@@ -80,3 +80,6 @@ DerivedDataCache/*
 #Substance Files (Too large)
 *.spp.painter_lock
 *.spp
+
+#High Poly Models
+HP_*.fbx
