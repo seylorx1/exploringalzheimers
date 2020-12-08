@@ -77,7 +77,7 @@ DerivedDataCache/*
 #Blender Back-up Files
 *.blend1
 
-#Substance Files (Too large)
+#Substance Files (Unfortunately, they're too large! ._. )
 *.spp.painter_lock
 *.spp
 
